@@ -1,0 +1,24 @@
+div {
+  background-color: pink;
+  justify-content: center;
+  margin-left: 150px;
+  margin-top: 30px;
+  margin-right: 50px;
+}
+.fa fa-plus add-btn{
+  color: blue;
+  text-decoration: none;
+  outline: none;
+}
+.btn effect04 {
+  background-color:red;
+  color: black;
+}
+.button{
+  color: red;
+
+}
+.child-div{
+  justify-content: center;
+  float: left;
+}
